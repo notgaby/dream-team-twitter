@@ -1,5 +1,0 @@
-consumer_key="HcFvSTAyYYKsVkAJD7TDxbeFA" #api key
-consumer_secret="yFPIjdCt2YV1UgWs8ZRQMAxSIVVbtO9XtsFZ5WHCTZIQ0llVPD" #api secret key
-access_token="1484434372061188096-0LZjf0f6qH5f3uy1WfKxIe2KtR6qEj" #access token
-access_token_secret="72ucuVvCkCyyKOTOSModj1LI52HxD9PPY2mfn6ZlgS4RF" #access token secret
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAMaGYgEAAAAAa3rSupsA1dMNX2qD7u7z7e6MOnU%3DnS3hBonG8FbVygGea8USbbmTfj46H4EAC37HsSxil2U7bQnm9f"
