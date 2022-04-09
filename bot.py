@@ -10,6 +10,6 @@ client = tweepy.Client(consumer_key = consumer_key,
 
 
 #Creating a simple tweet
-response = client.create_tweet(text='bing bong3')
+response = client.create_tweet(text='bing bong3 hi')
 
-print("hi2")
+print("hi5")
